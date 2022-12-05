@@ -1,0 +1,15 @@
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\bin\Debug\net6.0\ahorcadirijillo.exe
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\bin\Debug\net6.0\ahorcadirijillo.deps.json
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\bin\Debug\net6.0\ahorcadirijillo.runtimeconfig.json
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\bin\Debug\net6.0\ahorcadirijillo.dll
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\bin\Debug\net6.0\ahorcadirijillo.pdb
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\obj\Debug\net6.0\ahorcadirijillo.csproj.AssemblyReference.cache
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\obj\Debug\net6.0\ahorcadirijillo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\obj\Debug\net6.0\ahorcadirijillo.AssemblyInfoInputs.cache
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\obj\Debug\net6.0\ahorcadirijillo.AssemblyInfo.cs
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\obj\Debug\net6.0\ahorcadirijillo.csproj.CoreCompileInputs.cache
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\obj\Debug\net6.0\ahorcadirijillo.dll
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\obj\Debug\net6.0\refint\ahorcadirijillo.dll
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\obj\Debug\net6.0\ahorcadirijillo.pdb
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\obj\Debug\net6.0\ahorcadirijillo.genruntimeconfig.cache
+C:\Users\cecy-\source\repos\ahorcadirijillo\ahorcadirijillo\obj\Debug\net6.0\ref\ahorcadirijillo.dll
